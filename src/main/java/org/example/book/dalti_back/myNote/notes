@@ -1,0 +1,30 @@
+
+Go to File Settings, then Editor > General > Inline completion,
+and then disable "Enable local Full Line completion suggestions.
+
+
+AOP O
+Consuming rest Api O
+SpringDocs SwaggerUi X
+Uploading files AWS Google ... X
+Upload files X
+Actuator X
+FlyWay X
+Scheduled ---> @Async X
+Logging X
+Handling Exceptions ---------> interLocalization X
+--------------------------------------------------------
+MongoDb XX
+Call Stored Procedure XX
+JPA Spec O
+Auditing X
+Base X
+Transactional X
+Pagination x
+Named Queries O
+Declared Queries X
+Fetch type X
+Graph entity X
+Relations O
+
+
